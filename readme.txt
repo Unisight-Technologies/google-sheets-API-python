@@ -10,4 +10,4 @@ Steps to Implement Google Sheets API-
 8. Copy the "client_email" from the json file and add that email as an editor to a Google Sheet.
 9. Use example.py as a starting point to write code.
 
-P.S- Don't forget to install dependicies mentioned in the requirements.txt file.
+P.S- Don't forget to install dependencies mentioned in the requirements.txt file.
